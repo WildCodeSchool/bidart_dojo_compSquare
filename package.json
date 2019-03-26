@@ -1,0 +1,19 @@
+{
+  "name": "bidart_dojo_compsquare",
+  "version": "1.0.0",
+  "description": "A partir de deux tableaux `a` et `b`. Ecrivez une fonction `compSquare(a, b)` qui vérifie si les deux tableaux ont les mêmes éléments. Par mêmes éléments, on veut dire qu'un élément de `b` doit être le carré d'un élément de `a`, quelque soit leur ordre.",
+  "main": "bidart_dojo_compSquare_jb_nico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildCodeSchool/bidart_dojo_compSquare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildCodeSchool/bidart_dojo_compSquare/issues"
+  },
+  "homepage": "https://github.com/WildCodeSchool/bidart_dojo_compSquare#readme"
+}
